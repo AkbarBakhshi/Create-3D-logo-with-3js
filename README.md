@@ -1,8 +1,8 @@
 # Quick Start Guide
 
-This repo includes the finished code for the ThreeJs texture tutorial. Below is the link to the video:
+This repo includes the finished code for the ThreeJs tutorial oncreating a 3D logo and applying different materials and animating objects. Below is the link to the video:
 
-https://youtu.be/KudDZuHC5-w
+https://youtu.be/8duiyx83b5s
 
 Note that the code in this branch is not final and you may encounter some errors while navigating through the website pages.
 
